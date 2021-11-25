@@ -13,7 +13,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/simonjanss/go-powershell/internal"
+	"github.com/avian-digital-forensics/go-powershell/internal"
 )
 
 // Shell holds the underlying powershell-process

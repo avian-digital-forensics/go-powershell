@@ -1,4 +1,4 @@
-module github.com/simonjanss/go-powershell
+module github.com/avian-digital-forensics/go-powershell
 
 go 1.14
 

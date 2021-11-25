@@ -1,6 +1,6 @@
 package powershell
 
-import "github.com/simonjanss/go-powershell/internal"
+import "github.com/avian-digital-forensics/go-powershell/internal"
 
 type Option interface {
 	Apply(*internal.Settings)

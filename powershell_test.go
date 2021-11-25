@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/avian-digital-forensics/go-powershell"
 	"github.com/matryer/is"
-	"github.com/simonjanss/go-powershell"
 )
 
 var (
